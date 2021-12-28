@@ -2,7 +2,7 @@
 
 Simple retro game influenced by cellphone games of the late '90s, with some added features.
 
-*heavily influenced by the YouTube tutorial by "Bro Code" (https://www.youtube.com/watch?v=bI6e6qjJ8JQ)
+*heavily influenced by this YouTube tutorial by "Bro Code" (https://www.youtube.com/watch?v=bI6e6qjJ8JQ)
 
 ## Requirements
 
