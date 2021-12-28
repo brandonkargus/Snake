@@ -2,6 +2,8 @@
 
 Simple retro game influenced by cellphone games of the late '90s, with some added features.
 
+*heavily influenced by the YouTube tutorial by "Bro Code" (https://www.youtube.com/watch?v=bI6e6qjJ8JQ)
+
 ## Requirements
 
 Created using Java Swing GUI toolkit.  You will need Java 1.2 or greater (I used Java 11).
